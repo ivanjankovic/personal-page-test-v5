@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import joggling from './joggling.gif';
+
 import './App.css';
 
 class App extends Component {
@@ -7,11 +7,14 @@ class App extends Component {
     return (
       <div className="App">
         <header className="App-header">
-          <img src={joggling} alt="logo" />
-          <p>
-            HELLO
-          </p>
+          <p>header</p>
         </header>
+        <main>
+          <p>main</p>
+        </main>
+        <footer>
+          <p>footer</p>
+        </footer>
       </div>
     );
   }
