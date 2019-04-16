@@ -1,14 +1,14 @@
-import React, { Component } from 'react';
+import React, { Component } from "react";
 
-import svgEmail from './svg/email.svg';
-import svgReddit from './svg/reddit.svg';
-import svgDiscord from './svg/discord.svg';
+import svgEmail from "./svg/email.svg";
+import svgReddit from "./svg/reddit.svg";
+import svgDiscord from "./svg/discord.svg";
 
 class Footer extends Component {
   render() {
     return (
       <div>
-        <div className="footerLine"></div>
+        <div className="dividerLine" />
         <footer>
           <div>
             <img src={svgEmail} className="svg-icon" alt="email icon" />

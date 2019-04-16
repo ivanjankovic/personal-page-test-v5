@@ -1,5 +1,6 @@
 import React, { Component } from 'react'
 import Footer from './Footer'
+import NavBar from './NavBar'
 
 import './App.css';
 
@@ -7,11 +8,9 @@ class App extends Component {
   render() {
     return (
       <div className="App">
-        <header className="App-header">
-          <p>header</p>
-        </header>
+        <NavBar />
         <main>
-          <p>main</p>
+          <p>Main</p>
         </main>
         <Footer />
       </div>
