@@ -15,16 +15,30 @@ header {
 
 main {
   background-color: lightsalmon;
-  min-height: 10vh;
+  min-height: 50vh;
   display: flex;
   justify-content: center;
   /* justify-items: center; */
 }
 
 footer {
-  background-color: purple;
+  background-color: lightgray;
   min-height: 10vh;
   color: white;
   display: flex;
   justify-content: center;
+  /* properties from 2dimensions */
+  padding: 30px 30px 25px 30px;
+  font-size: 13px;
+  color: #888;
+  font-weight: 400;
+  line-height: 21px;
+}
+
+.logo {
+  width: 70px;
+  height: 70px;
+  margin-right: 24px;
+  opacity: 0.4;
+  /* position: relative; */
 }
