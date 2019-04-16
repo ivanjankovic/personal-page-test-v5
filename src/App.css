@@ -18,12 +18,10 @@ main {
   min-height: 50vh;
   display: flex;
   justify-content: center;
-  /* justify-items: center; */
 }
 
 footer {
   background-color: lightgray;
-  min-height: 10vh;
   color: white;
   display: flex;
   justify-content: center;
@@ -35,10 +33,9 @@ footer {
   line-height: 21px;
 }
 
-.logo {
-  width: 70px;
-  height: 70px;
-  margin-right: 24px;
+footer .svg-icon {
+  width: 55px;
+  height: 55px;
+  padding: 0 10px;
   opacity: 0.4;
-  /* position: relative; */
 }
