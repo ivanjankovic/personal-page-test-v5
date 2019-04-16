@@ -7,7 +7,8 @@ import svgDiscord from './svg/discord.svg';
 class Footer extends Component {
   render() {
     return (
-      // <div className="App">
+      <div>
+        <div className="footerLine"></div>
         <footer>
           <div>
             <img src={svgEmail} className="svg-icon" alt="email icon" />
@@ -15,7 +16,7 @@ class Footer extends Component {
             <img src={svgDiscord} className="svg-icon" alt="discord icon" />
           </div>
         </footer>
-      // </div>
+      </div>
     );
   }
 }
