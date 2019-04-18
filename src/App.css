@@ -6,12 +6,22 @@
 
 body {
   font-family: 'Roboto', sans-serif;
+  color: #666;
 }
 
 header {
   padding: 0 30px;
   position: relative;
   height: 80px;
+}
+
+.source-client-source-2d-Components-NavStyles-NavMenuIcon-1G5H0 {
+  width: 20px;
+  height: 20px;
+  margin-top: 30px;
+  fill: #888;
+  /* display: none; */
+  cursor: pointer;
 }
 
 header .nav-logowrapper {
@@ -45,8 +55,18 @@ header .page-links {
 
 header .account-links {
   position: absolute;
-  top: 30px;
-  right: 35px;
+  top: 25px;
+  right: 0;
+  display: flex;
+  -webkit-box-align: center;
+  align-items: center;
+  height: 30px;
+}
+
+.signinlink {
+  display: inline-flex;
+  margin-top: 2px;
+  margin-right: 10px;
 }
 
 header .navlink {
@@ -54,7 +74,6 @@ header .navlink {
   font-size: 13px;
   font-weight: 400;
   padding: 15px;
-  -webkit-transition: color 0.1s ease-in-out;
   transition: color 0.1s ease-in-out;
   text-decoration: none;
 }
@@ -195,6 +214,8 @@ footer .svg-icon {
   min-width: 453px;
 }
 
+/* Media Queries */
+
 @media (max-width: 1100px) {
   .source-client-source-2d-Components-HomeStyles-FeatureBlock3-2eeDh {
     grid-column: span 3;
@@ -202,6 +223,33 @@ footer .svg-icon {
 }
 
 @media (max-width: 700px) {
+
+  header {
+    padding: 0 20px;
+    /* position: relative; */
+  }
+  .source-client-source-2d-Components-NavStyles-NavMenuIcon-1G5H0 {
+    display: inline-block;
+  }
+  header .nav-logowrapper {
+    position: absolute;
+    top: 0;
+    left: 50%;
+  }
+  header .nav-logowrapper a {
+    display: block;
+    position: relative;
+    left: -50%;
+  }
+  .page-links {
+    display: none;
+  }
+  .signinlink {
+    /* display: inline-block; */
+    /* margin-right: 0; */
+    /* padding: 15px; */
+    /* background: blue; */
+  }
   .source-client-source-2d-Components-HomeStyles-FeatureBlock3-2eeDh {
     grid-column: span 6;
   }
