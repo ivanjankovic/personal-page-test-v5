@@ -4,8 +4,8 @@ self.__precacheManifest = [
     "url": "/static/media/reddit.6be46dfa.svg"
   },
   {
-    "revision": "5d1638dda5b5058091c2",
-    "url": "/static/css/main.7802485b.chunk.css"
+    "revision": "2337fcb6aeef009c5625",
+    "url": "/static/css/main.60c63c0d.chunk.css"
   },
   {
     "revision": "42ac5946195a7306e2a5",
@@ -20,8 +20,8 @@ self.__precacheManifest = [
     "url": "/static/media/email.f12d6fbf.svg"
   },
   {
-    "revision": "5d1638dda5b5058091c2",
-    "url": "/static/js/main.6c17e8ca.chunk.js"
+    "revision": "2337fcb6aeef009c5625",
+    "url": "/static/js/main.673824eb.chunk.js"
   },
   {
     "revision": "37d446400e2ab74e7b8e35b400972ce4",
@@ -40,7 +40,7 @@ self.__precacheManifest = [
     "url": "/static/media/main-picture.74ddd1a1.jpg"
   },
   {
-    "revision": "026f8a046d3ce99b26c9c5c9c63a8411",
+    "revision": "277ee43f948c65880b0e8ef2cabda0e8",
     "url": "/index.html"
   }
 ];
