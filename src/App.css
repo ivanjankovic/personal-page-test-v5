@@ -138,9 +138,7 @@ footer .svg-icon {
   text-decoration: none;
 }
 
-.source-client-source-2d-Components-HomeStyles-MadeWith2dImage-Ctyem {
-  background: url(https://cdn.2dimensions.com/features/kova_bg2.jpg);
-}
+
 
 /* style change on hover */
 .source-client-source-2d-Components-HomeStyles-FeatureBlock3-2eeDh:hover {
@@ -151,26 +149,29 @@ footer .svg-icon {
 a:hover {
   color: #222;
 }
-
 a:active, a:hover {
   outline: 0;
+}
+.source-client-source-2d-Components-HomeStyles-FeatureBlock3-2eeDh:hover .source-client-source-2d-Components-HomeStyles-NewsImage-1xaRn {
+  background: #FAFAFA;
 }
 
 .source-client-source-2d-Components-HomeStyles-NewsImage-1xaRn {
   height: 200px;
-  /* background: #F2F2F2; */
+  background: #F2F2F2;
   border-radius: 10px 10px 0 0;
   overflow: hidden;
-  /* -webkit-transition: background .2s ease-in-out; */
   transition: background .2s ease-in-out;
   position: relative;
-  /* display: -webkit-box; */
-  display: -ms-flexbox;
   display: flex;
   -webkit-box-align: center;
   align-items: center;
   -webkit-box-pack: center;
   justify-content: center;
+}
+.source-client-source-2d-Components-HomeStyles-MadeWith2dImage-Ctyem,
+.source-client-source-2d-Components-HomeStyles-FeatureBlock3-2eeDh:hover .source-client-source-2d-Components-HomeStyles-MadeWith2dImage-Ctyem {
+  background: url(https://cdn.2dimensions.com/features/kova_bg2.jpg);
 }
 
 .source-client-source-2d-Components-HomeStyles-KovaHero-2iZRR {
