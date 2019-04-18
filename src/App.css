@@ -126,45 +126,51 @@ footer .svg-icon {
 }
 
 .source-client-source-2d-Components-HomeStyles-FeatureBlock3-2eeDh {
-  background: #F7F7F7;
+  background: rgb(237, 237, 237);
   border-radius: 10px;
   grid-column: span 2;
-  display: -webkit-box;
-  display: -ms-flexbox;
   display: flex;
   -webkit-box-orient: vertical;
   -webkit-box-direction: normal;
-  -ms-flex-direction: column;
   flex-direction: column;
-  -webkit-transition: background .2s ease-in-out, -webkit-box-shadow .2s ease-in-out, -webkit-transform .2s ease-in-out;
-  transition: background .2s ease-in-out, -webkit-box-shadow .2s ease-in-out, -webkit-transform .2s ease-in-out;
-  transition: background .2s ease-in-out, box-shadow .2s ease-in-out, transform .2s ease-in-out;
   transition: background .2s ease-in-out, box-shadow .2s ease-in-out, transform .2s ease-in-out, -webkit-box-shadow .2s ease-in-out, -webkit-transform .2s ease-in-out;
 
   text-decoration: none;
 }
 
+.source-client-source-2d-Components-HomeStyles-MadeWith2dImage-Ctyem {
+  background: url(https://cdn.2dimensions.com/features/kova_bg2.jpg);
+}
+
+/* style change on hover */
+.source-client-source-2d-Components-HomeStyles-FeatureBlock3-2eeDh:hover {
+  background: #FFFFFF;
+  box-shadow: 0 15px 75px 0 rgba(0, 0, 0, 0.15);
+  transform: translateY(-2px);
+}
+a:hover {
+  color: #222;
+}
+
+a:active, a:hover {
+  outline: 0;
+}
+
 .source-client-source-2d-Components-HomeStyles-NewsImage-1xaRn {
   height: 200px;
-  background: #F2F2F2;
+  /* background: #F2F2F2; */
   border-radius: 10px 10px 0 0;
   overflow: hidden;
-  -webkit-transition: background .2s ease-in-out;
+  /* -webkit-transition: background .2s ease-in-out; */
   transition: background .2s ease-in-out;
   position: relative;
-  display: -webkit-box;
+  /* display: -webkit-box; */
   display: -ms-flexbox;
   display: flex;
   -webkit-box-align: center;
-  -ms-flex-align: center;
   align-items: center;
   -webkit-box-pack: center;
-  -ms-flex-pack: center;
   justify-content: center;
-}
-
-.source-client-source-2d-Components-HomeStyles-MadeWith2dImage-Ctyem {
-  background: url(https://cdn.2dimensions.com/features/kova_bg2.jpg);
 }
 
 .source-client-source-2d-Components-HomeStyles-KovaHero-2iZRR {
@@ -253,10 +259,10 @@ footer .svg-icon {
   .source-client-source-2d-Components-HomeStyles-FeatureBlock3-2eeDh {
     grid-column: span 6;
   }
-  /* main wrapper in main  element */
+  /* main wrapper in main element */
   .source-client-source-2d-Components-HomeStyles-FeatureGrid-2-U17 {
-    padding: 0 20px;
-    grid-gap: 20px;
+    padding: 0 18px;
+    grid-gap: 22px;
   }
   /* text div below pic */
   .source-client-source-2d-Components-HomeStyles-NewsContent-3eFrk {
