@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "9751c240db1b0403985fef65bf028208",
-    "url": "/static/media/nima_macbook.9751c240.png"
+    "revision": "75684e12b1df1a7d3781001c4cd0b587",
+    "url": "/static/media/frogger.75684e12.png"
   },
   {
-    "revision": "bffcb2507f517a6d096c",
-    "url": "/static/css/main.4a629c42.chunk.css"
+    "revision": "9a6e9de8de5108beda00",
+    "url": "/static/css/main.61efd9eb.chunk.css"
   },
   {
     "revision": "42ac5946195a7306e2a5",
@@ -20,8 +20,8 @@ self.__precacheManifest = [
     "url": "/static/media/navlogo.399f5e1a.svg"
   },
   {
-    "revision": "bffcb2507f517a6d096c",
-    "url": "/static/js/main.d57cf22e.chunk.js"
+    "revision": "9a6e9de8de5108beda00",
+    "url": "/static/js/main.3aa0f400.chunk.js"
   },
   {
     "revision": "f12d6fbf4827333c7ed1f06a679d5b3a",
@@ -40,7 +40,7 @@ self.__precacheManifest = [
     "url": "/static/media/navicon.52d5953d.svg"
   },
   {
-    "revision": "cf996c9845f4ea6e538882cde67be3db",
+    "revision": "a787e03de553dbbb9c3c41e5b3927613",
     "url": "/index.html"
   }
 ];
