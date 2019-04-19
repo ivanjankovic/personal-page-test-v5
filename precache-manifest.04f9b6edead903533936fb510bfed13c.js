@@ -4,8 +4,8 @@ self.__precacheManifest = [
     "url": "/static/media/frogger.75684e12.png"
   },
   {
-    "revision": "3291acb063342ac03dc9",
-    "url": "/static/css/main.b1ccdefc.chunk.css"
+    "revision": "efc0207e877538ce5ea0",
+    "url": "/static/css/main.e0f0534b.chunk.css"
   },
   {
     "revision": "42ac5946195a7306e2a5",
@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/static/media/navlogo.399f5e1a.svg"
   },
   {
-    "revision": "3291acb063342ac03dc9",
+    "revision": "efc0207e877538ce5ea0",
     "url": "/static/js/main.3aa0f400.chunk.js"
   },
   {
@@ -40,7 +40,7 @@ self.__precacheManifest = [
     "url": "/static/media/navicon.52d5953d.svg"
   },
   {
-    "revision": "8e462b5aebd161dd8ab70fd14810c143",
+    "revision": "b094bf8d9a14a2c1f0c6fdbcdbbcc733",
     "url": "/index.html"
   }
 ];
