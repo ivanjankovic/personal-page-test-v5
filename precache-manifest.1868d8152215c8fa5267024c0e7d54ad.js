@@ -1,27 +1,27 @@
 self.__precacheManifest = [
   {
-    "revision": "74ddd1a18590338920aa1429c91f0fac",
-    "url": "/static/media/main-picture.74ddd1a1.jpg"
+    "revision": "9751c240db1b0403985fef65bf028208",
+    "url": "/static/media/nima_macbook.9751c240.png"
   },
   {
-    "revision": "ba1750413281fb648572",
-    "url": "/static/css/main.2cb8e5bc.chunk.css"
+    "revision": "bffcb2507f517a6d096c",
+    "url": "/static/css/main.4a629c42.chunk.css"
   },
   {
     "revision": "42ac5946195a7306e2a5",
     "url": "/static/js/runtime~main.a8a9905a.js"
   },
   {
-    "revision": "58f496bc1ce27350f0eb",
-    "url": "/static/js/2.98dcc9dd.chunk.js"
+    "revision": "43d1f55c2a696b4563b8",
+    "url": "/static/js/2.179f4c70.chunk.js"
   },
   {
     "revision": "399f5e1a7fd4f972a17b1bc4d34300c9",
     "url": "/static/media/navlogo.399f5e1a.svg"
   },
   {
-    "revision": "ba1750413281fb648572",
-    "url": "/static/js/main.1316fd9e.chunk.js"
+    "revision": "bffcb2507f517a6d096c",
+    "url": "/static/js/main.d57cf22e.chunk.js"
   },
   {
     "revision": "f12d6fbf4827333c7ed1f06a679d5b3a",
@@ -40,7 +40,7 @@ self.__precacheManifest = [
     "url": "/static/media/navicon.52d5953d.svg"
   },
   {
-    "revision": "98e5945340f8b9c79b176922bfc86f70",
+    "revision": "cf996c9845f4ea6e538882cde67be3db",
     "url": "/index.html"
   }
 ];
