@@ -227,9 +227,10 @@ a:active, a:hover {
 }
 
 .source-client-source-2d-Components-HomeStyles-NimaLaptopImg-2ewcg {
-  position: absolute;
-  width: 132%;
-  min-width: 453px;
+  /* position: absolute; */
+  /* width: 132%; */
+  /* min-width: 453px; */
+  width: 115%;
 }
 
 /* Media Queries */
