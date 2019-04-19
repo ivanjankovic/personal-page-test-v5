@@ -26,7 +26,7 @@ const cardsData = {
     imgClass: `source-client-source-2d-Components-HomeStyles-NimaLaptopImg-2ewcg`,
     imgSource: frogerImg,
     imgAlt: "",
-    description: `Object-Oriented JavaScript, HTML5 Canvas, Collision Detection and ES6 Modals implementation`
+    description: `Object-Oriented JavaScript, HTML5 Canvas, Collision Detection and ES6 Modals implementation.`
   },
 };
 const Cards = [];
