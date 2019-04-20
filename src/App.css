@@ -227,6 +227,15 @@ a:active, a:hover {
   position: absolute;
 }
 
+.my-reads {
+  position: absolute;
+  /* width: 132%; */
+  /* min-width: 453px; */
+  margin-top: -10px;
+  
+  width: 100%;
+}
+
 .source-client-source-2d-Components-HomeStyles-NimaLaptopImg-2ewcg {
   /* position: absolute; */
   /* width: 132%; */

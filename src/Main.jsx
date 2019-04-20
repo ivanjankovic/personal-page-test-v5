@@ -3,6 +3,7 @@ import React from "react";
 import Card from "./Card";
 
 import frogerImg from "./frogger.png"
+import myReadsImg from './myreads.png'
 
 const cardsData = {
   card1: {
@@ -14,10 +15,12 @@ const cardsData = {
     imgAlt: "",
     description: "Discover real world projects created with our tools. Tag your posts with #MadeWith2D to get featured!"
   },
-  card2: {
+  myReads: {
     href: "https://ivanjankovic.github.io/gwg-udacity-fend-p6-my-reads/",
-    h3: "Flutter Support",
+    h3: "My Reads",
     divClass: `source-client-source-2d-Components-HomeStyles-FlutterImage-hG72S`,
+    imgClass:'my-reads',
+    imgSource: myReadsImg,
     description: `Add dynamic real-time animations to Google's mobile app SDK for crafting high-quality native apps.`
   },
   froggerClone: {
@@ -38,7 +41,7 @@ Object.values(cardsData).forEach(card => {
       href={card.href}
       h3={card.h3}
       imgDivClass={card.imgDivClass}
-      divClass={card.divClass}
+      // divClass={card.divClass}
       imgClass={card.imgClass}
       imgSource={card.imgSource}
       imgAlt={card.imgAlt}
