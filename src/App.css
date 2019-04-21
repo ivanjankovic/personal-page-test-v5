@@ -187,7 +187,8 @@ a:active, a:hover {
 }
 
 .source-client-source-2d-Components-HomeStyles-KovaHero-2iZRR {
-  width: 620px;
+  width: 105%;
+  margin-top: -165px;
 }
 
 .source-client-source-2d-Components-HomeStyles-NewsContent-3eFrk {
@@ -231,7 +232,7 @@ a:active, a:hover {
   position: absolute;
   /* width: 132%; */
   /* min-width: 453px; */
-  margin-top: -10px;
+  margin-top: -47px;
   
   width: 100%;
 }
@@ -287,6 +288,9 @@ a:active, a:hover {
   }
   .dividerLine {
     display: none;
+  }
+  .my-reads {
+    margin-top: -22px;
   }
 }
 

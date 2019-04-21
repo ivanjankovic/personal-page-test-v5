@@ -3,15 +3,16 @@ import React from "react";
 import Card from "./Card";
 
 import frogerImg from "./frogger.png"
-import myReadsImg from './myreads.png'
+import myReadsImg from './myreads1.png'
+import librariesNYC from './libraries.png'
 
 const cardsData = {
-  card1: {
+  mapOfLibraries: {
     href: "https://ivanjankovic.github.io/gwg-udacity-fend-p7-neighborhood-map/",
-    h3: "Made with 2Dimensions",
+    h3: "NYC Libraries",
     imgDivClass: `source-client-source-2d-Components-HomeStyles-MadeWith2dImage-Ctyem`,
     imgClass: `source-client-source-2d-Components-HomeStyles-KovaHero-2iZRR`,
-    imgSource: "https://cdn.2dimensions.com/features/kova_hero.png",
+    imgSource: librariesNYC,
     imgAlt: "",
     description: "Discover real world projects created with our tools. Tag your posts with #MadeWith2D to get featured!"
   },
