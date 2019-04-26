@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 
-import { ReactComponent as LinkedInSvg } from "./svg/reddit.svg";
-import { ReactComponent as GitHubSvg } from "./svg/discord.svg";
+import { ReactComponent as LinkedInSvg } from "./svg/linkedin.svg";
+import { ReactComponent as GitHubSvg } from "./svg/github.svg";
 import { ReactComponent as MailToSvg } from "./svg/email.svg";
 
 const urlLinkedIn = "https://www.linkedin.com/in/ivanjankovic3";
