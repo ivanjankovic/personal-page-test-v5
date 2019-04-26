@@ -53,7 +53,7 @@ header .nav-logowrapper {
   /* background: rgb(206, 10, 7); */
   width: 52px;
   /* height: 20px; */
-  height: 32px;
+  height: 30px;
 }
 
 header .page-links {
@@ -112,14 +112,14 @@ footer {
 }
 
 footer .svg-icon {
-  width: 44px;
-  height: 44px;
+  width: 42px;
+  height: 42px;
   padding: 0 7px;
-  opacity: 0.5;
+  opacity: 0.45;
 }
 
 footer .svg-icon:hover {
-  opacity: 0.9;
+  opacity: 0.8;
   color: salmon;
 }
 
