@@ -4,8 +4,8 @@ self.__precacheManifest = [
     "url": "/static/media/myreads1.a0930340.png"
   },
   {
-    "revision": "14ff6277700b640ca629",
-    "url": "/static/css/main.7cbbca65.chunk.css"
+    "revision": "8733f11aad6b311cfbc0",
+    "url": "/static/css/main.8a54d645.chunk.css"
   },
   {
     "revision": "42ac5946195a7306e2a5",
@@ -16,39 +16,39 @@ self.__precacheManifest = [
     "url": "/static/js/2.609907aa.chunk.js"
   },
   {
-    "revision": "399f5e1a7fd4f972a17b1bc4d34300c9",
-    "url": "/static/media/navlogo.399f5e1a.svg"
+    "revision": "0006d23eaadeaedd5d4df275602e479f",
+    "url": "/static/media/navlogo.0006d23e.svg"
   },
   {
     "revision": "75684e12b1df1a7d3781001c4cd0b587",
     "url": "/static/media/frogger.75684e12.png"
   },
   {
-    "revision": "14ff6277700b640ca629",
-    "url": "/static/js/main.bcf21450.chunk.js"
+    "revision": "8733f11aad6b311cfbc0",
+    "url": "/static/js/main.4a8b898f.chunk.js"
   },
   {
     "revision": "a5a15b5aaabbb117bb57e0b891ce68b7",
     "url": "/static/media/libraries.a5a15b5a.png"
   },
   {
-    "revision": "f12d6fbf4827333c7ed1f06a679d5b3a",
-    "url": "/static/media/email.f12d6fbf.svg"
+    "revision": "82329cbd76dfca4dbec073240838dbc5",
+    "url": "/static/media/linkedin.82329cbd.svg"
   },
   {
-    "revision": "6be46dfa980d46b36ba3f7068e88d5d1",
-    "url": "/static/media/reddit.6be46dfa.svg"
+    "revision": "4af65d4fcf80daff14cc2bd1adcccc17",
+    "url": "/static/media/github.4af65d4f.svg"
   },
   {
-    "revision": "37d446400e2ab74e7b8e35b400972ce4",
-    "url": "/static/media/discord.37d44640.svg"
+    "revision": "6f07220689d8ff05a9b89178723f6fc8",
+    "url": "/static/media/email.6f072206.svg"
   },
   {
     "revision": "52d5953d6a3332b48401468088c672d3",
     "url": "/static/media/navicon.52d5953d.svg"
   },
   {
-    "revision": "341cd86e167e9d64e4efd218f3b3665f",
+    "revision": "67da7a67a6cb12ec533a2910e9f8b286",
     "url": "/index.html"
   }
 ];
