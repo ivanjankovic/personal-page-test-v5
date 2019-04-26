@@ -8,6 +8,8 @@ const urlLinkedIn = "https://www.linkedin.com/in/ivanjankovic3";
 const urlGitHub = "https://github.com/ivanjankovic";
 const urlMailTo = "mailto:jankoemail@gmail.com";
 
+// svg source https://www.shareicon.net/pack/neon-line-social-circles-black?p=1
+
 class Footer extends Component {
   render() {
     return (

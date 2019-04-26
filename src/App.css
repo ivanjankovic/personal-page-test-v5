@@ -104,7 +104,7 @@ footer {
   display: flex;
   justify-content: center;
   /* properties from 2dimensions */
-  padding: 30px 30px 25px 30px;
+  padding: 25px;
   font-size: 13px;
   color: #888;
   font-weight: 400;
@@ -112,14 +112,15 @@ footer {
 }
 
 footer .svg-icon {
-  width: 40px;
-  height: 40px;
+  width: 44px;
+  height: 44px;
   padding: 0 7px;
-  opacity: 0.4;
+  opacity: 0.5;
 }
 
 footer .svg-icon:hover {
-  opacity: 0.8;
+  opacity: 0.9;
+  color: salmon;
 }
 
 .dividerLine {
@@ -295,6 +296,10 @@ a:active, a:hover {
   }
   .source-client-source-2d-Components-HomeStyles-KovaHero-2iZRR {
     margin-top: 20px;
+  }
+  /* footer */
+  footer {
+    padding: 35px;
   }
 }
 
