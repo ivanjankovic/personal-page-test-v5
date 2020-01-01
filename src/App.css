@@ -120,7 +120,7 @@ footer .svg-icon {
 
 footer .svg-icon:hover {
   opacity: 0.8;
-  color: salmon;
+  fill: crimson;
 }
 
 .dividerLine {
