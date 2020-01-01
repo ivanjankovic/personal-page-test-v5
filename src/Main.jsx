@@ -14,7 +14,7 @@ const cardsData = {
     imgClass: `source-client-source-2d-Components-HomeStyles-KovaHero-2iZRR`,
     imgSource: librariesNYC,
     imgAlt: "",
-    description: "Discover real world projects created with our tools. Tag your posts with #MadeWith2D to get featured!"
+    description: "Discover real world projects created with our tools. Tag your posts with #Ivan2D to get featured!"
   },
   myReads: {
     href: "https://ivanjankovic.github.io/gwg-udacity-fend-p6-my-reads/",
