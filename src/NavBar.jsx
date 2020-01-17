@@ -20,7 +20,7 @@ class NavBar extends React.Component {
             <a href="/made-with-2d" className="navlink">Made with 2D</a>
           </div>
           <div class="account-links">
-            <a href="/signin" class="navlink signinlink">Sign In</a>
+            <a href="/signin" class="navlink signinlink">Sign In :)</a>
           </div>
         </header>
         <div className="dividerLine" />
