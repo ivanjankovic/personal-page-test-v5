@@ -1,10 +1,10 @@
 self.__precacheManifest = [
   {
-    "revision": "a0930340a0fe8504315dd59201e3c4fb",
-    "url": "/static/media/myreads1.a0930340.png"
+    "revision": "a5a15b5aaabbb117bb57e0b891ce68b7",
+    "url": "/static/media/libraries.a5a15b5a.png"
   },
   {
-    "revision": "16c607d839eea43e3bf0",
+    "revision": "1cb0add40540c066c751",
     "url": "/static/css/main.e49b60d8.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = [
     "url": "/static/js/runtime~main.a8a9905a.js"
   },
   {
-    "revision": "ec17dd9d751765d291bb",
-    "url": "/static/js/2.609907aa.chunk.js"
+    "revision": "ef60339c4d2aed56294d",
+    "url": "/static/js/2.52a6492a.chunk.js"
   },
   {
     "revision": "0006d23eaadeaedd5d4df275602e479f",
@@ -24,12 +24,16 @@ self.__precacheManifest = [
     "url": "/static/media/frogger.75684e12.png"
   },
   {
-    "revision": "16c607d839eea43e3bf0",
-    "url": "/static/js/main.bebfd48f.chunk.js"
+    "revision": "a0930340a0fe8504315dd59201e3c4fb",
+    "url": "/static/media/myreads1.a0930340.png"
   },
   {
-    "revision": "a5a15b5aaabbb117bb57e0b891ce68b7",
-    "url": "/static/media/libraries.a5a15b5a.png"
+    "revision": "1cb0add40540c066c751",
+    "url": "/static/js/main.1a49ffd3.chunk.js"
+  },
+  {
+    "revision": "e008cf0f96016d0f6ccded27006af2d3",
+    "url": "/static/media/fruits-vegetables.e008cf0f.jpg"
   },
   {
     "revision": "82329cbd76dfca4dbec073240838dbc5",
@@ -48,7 +52,7 @@ self.__precacheManifest = [
     "url": "/static/media/navicon.52d5953d.svg"
   },
   {
-    "revision": "16ff0c2211197010021167c172cd69ec",
+    "revision": "82e03bf749ab4535c1a179eac2728aa3",
     "url": "/index.html"
   }
 ];
